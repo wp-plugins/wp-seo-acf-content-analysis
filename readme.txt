@@ -11,6 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 This Plugin adds all ACF fields into the content being analyzed by Yoast's Wordpress SEO Plugin
 
 == Description ==
+
 Adds all ACF fields into the content being analyzed by Yoast's Wordpress SEO Plugin
 
 This plugin gets every string out of ACF (Advanced Custom Fields) and puts it into the SEO analysis for Yoast's Wordpress SEO plugin using the `wpseo_pre_analysis_post_content` filter hook.
